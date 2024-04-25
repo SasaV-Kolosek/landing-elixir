@@ -1137,6 +1137,10 @@ video {
   overflow: visible;
 }
 
+.overscroll-y-none {
+  overscroll-behavior-y: none;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
