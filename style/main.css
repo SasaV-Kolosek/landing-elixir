@@ -836,10 +836,6 @@ video {
   bottom: -12rem;
 }
 
-.-right-44 {
-  right: -11rem;
-}
-
 .bottom-0 {
   bottom: 0px;
 }
@@ -868,12 +864,16 @@ video {
   top: 0px;
 }
 
-.top-14 {
-  top: 3.5rem;
-}
-
 .top-4 {
   top: 1rem;
+}
+
+.-right-44 {
+  right: -11rem;
+}
+
+.top-14 {
+  top: 3.5rem;
 }
 
 .isolate {
@@ -997,16 +997,16 @@ video {
   width: 180%;
 }
 
-.w-\[55\.0625rem\] {
-  width: 55.0625rem;
-}
-
 .w-auto {
   width: auto;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-\[55\.0625rem\] {
+  width: 55.0625rem;
 }
 
 .max-w-7xl {
